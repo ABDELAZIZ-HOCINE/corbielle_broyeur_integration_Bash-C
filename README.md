@@ -5,7 +5,7 @@ Guide d'utilisation des scripts:
 
 ---------------------------------------------------------------------------------------------------------
 1. Initialisation des scripts
-    Pour initialiser les scripts, donnez-leur les droits d'exécution et supprimez les fichiers inutiles :
+    Pour initialiser les scripts, donnez-leur les droits d'exécution et supprimez les fichiers inutiles:
 
         bash:
             ./chmod u+x init-trashbox.sh
