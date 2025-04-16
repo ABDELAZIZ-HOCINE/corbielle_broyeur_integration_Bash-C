@@ -7,12 +7,13 @@ Guide d'utilisation des scripts:
 1. Initialisation des scripts
     Pour initialiser les scripts, donnez-leur les droits d'exécution et supprimez les fichiers inutiles :
 
-    cmd:
+    bash:
         %chmod u+x init-trashbox.sh
         %chmod u+x sae_delete.sh
         %chmod u+x sae_restore.sh
         %chmod u+x sae_trashbox_ls.sh
-    ou;
+ou:
+   bash:
         %chmod u+x *
 
 ---------------------------------------------------------------------------------------------------------
